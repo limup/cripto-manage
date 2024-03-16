@@ -1,0 +1,257 @@
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.csprojResolveAssemblyReference.cache
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.csproj.CoreCompileInputs.cache
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\ApplicationInsights.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\CriptoManage.dll.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\CriptoManage.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\CriptoManage.pdb
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csc.exe
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csc.exe.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csc.rsp
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csi.exe
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csi.exe.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csi.rsp
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.AppContext.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Console.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.Compression.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Claims.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Threading.Thread.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.ValueTuple.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\vbc.exe
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\vbc.exe.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\vbc.rsp
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\VBCSCompiler.exe
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Antlr3.Runtime.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\AspNet.Identity.MySQL.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.SqlServer.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.Web.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\MySql.Data.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\mysql.data.entity.EF6.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Newtonsoft.Json.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Owin.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Helpers.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Mvc.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Optimization.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Razor.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Razor.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\WebGrease.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\AspNet.Identity.MySQL.pdb
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\AspNet.Identity.MySQL.dll.config
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Antlr3.Runtime.pdb
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.SqlServer.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.Web.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Newtonsoft.Json.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Helpers.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Mvc.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Optimization.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Razor.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Razor.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.dll
+C:\Users\junio\Limup\2- Projetos\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.pdb
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\ApplicationInsights.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\CriptoManage.dll.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\CriptoManage.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\CriptoManage.pdb
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csc.exe
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csc.exe.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csc.rsp
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csi.exe
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csi.exe.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\csi.rsp
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.AppContext.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Console.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.Compression.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Claims.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Threading.Thread.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.ValueTuple.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\vbc.exe
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\vbc.exe.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\vbc.rsp
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\VBCSCompiler.exe
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Antlr3.Runtime.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\AspNet.Identity.MySQL.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.SqlServer.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.Web.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\MySql.Data.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\mysql.data.entity.EF6.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Newtonsoft.Json.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Owin.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Helpers.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Mvc.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Optimization.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Razor.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Razor.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\WebGrease.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\AspNet.Identity.MySQL.pdb
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\AspNet.Identity.MySQL.dll.config
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Antlr3.Runtime.pdb
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\EntityFramework.SqlServer.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.Web.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Newtonsoft.Json.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Helpers.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Mvc.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Optimization.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.Razor.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\System.Web.WebPages.Razor.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.csproj.AssemblyReference.cache
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.csproj.CopyComplete
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\CriptoManage\CriptoManage\obj\Debug\CriptoManage.pdb
